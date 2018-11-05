@@ -4,4 +4,4 @@ Experimento que visa aplicar a Lei de Benford nos dados da Eleições Brasileira
 
 # Acesso Rápido
 
-O Notebook com as explicações detalhada e resultado pode ser facilmente acessado [aqui](https://nbviewer.jupyter.org/github/Fernandohf/Benford-s-Law/blob/master/Lei%20de%20Bendford.ipynb).
+O Notebook com as explicações detalhada e resultado pode ser facilmente acessado [aqui](https://nbviewer.jupyter.org/github/fernandohf/Benford-s-Law/blob/master/Lei%20de%20Bendford.ipynb).
