@@ -1,4 +1,4 @@
-# Benford-s-Law
+# Benford's Law
 
 Experimento que visa aplicar a Lei de Benford nos dados da Eleições Brasileiras de 2014.
 
