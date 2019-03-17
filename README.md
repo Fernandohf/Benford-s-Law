@@ -15,3 +15,9 @@ Para a execução local do notebook, os seguintes *packages* são necessários.
   - Seaborn 0.9.0
   - Matplotlib 2.2.2
   - Jupyter 1.0.0
+
+## Resultados
+
+Todos os números analisados se mostraram de acordo com o Lei de Benford como mostrado na figura abaixo.
+
+![Imagem Resultado](Results.png "resultados mostrando a os gráficos de forma similar.")
